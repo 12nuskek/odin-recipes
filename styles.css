@@ -1,7 +1,9 @@
 /* styles.css */
 * {
+    border: 2px solid rgb(0, 0, 0);
     background-color: rgb(70, 70, 179);
   }
+
 
 .mainContainer {
     color: rgb(211, 12, 12);
