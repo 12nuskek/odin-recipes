@@ -7,6 +7,10 @@
 
 .mainContainer {
     color: rgb(211, 12, 12);
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
   }
 
 #Lasagna {
@@ -15,3 +19,5 @@
     background: #1C6EA4; }
     .myButton:active {
     background: #144E75; }
+
+    
